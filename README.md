@@ -8,8 +8,8 @@
 ## Клонирование репозитория
 
 ```
-git clone <URL_репозитория>
-cd <папка_проекта>
+git clone [<URL_репозитория>](https://github.com/auternous/hitelent-python-test.git)
+cd hitelent-python-test
 ```
 
 ---
