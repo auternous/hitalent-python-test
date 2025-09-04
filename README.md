@@ -1,1 +1,0 @@
-# hitelent-python-test
